@@ -21,6 +21,9 @@
         <br>
         <h3>Enter your password</h3>
         <input type="password">
+         <br>
+        <h3>Confirm your password</h3>
+        <input type="password">
         <br>
         <br>
         <h3>Enter your gender</h3>
